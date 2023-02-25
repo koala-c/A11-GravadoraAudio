@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Recorder</string>
+    <string name="start">Record</string>
+    <string name="stop">Save</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stopPlay">Stop</string>
+    <string name="status">Recording status</string>
+    <string name="playRecording">Play recording</string>
+    <string name="pauseRecording">Pause recording</string>
+</resources>
